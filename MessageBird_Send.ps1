@@ -25,38 +25,6 @@ $Van="Extern-IT"
 $Bericht="Welkom bij Extern-IT! Wij zullen u voortaan SMS'matisch op de hoogte houden van storingen!"
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #######################################
 #######################################
 
